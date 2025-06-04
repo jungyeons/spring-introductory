@@ -57,7 +57,7 @@ cd spring-introductory
 * 애플리케이션 기본 포트: **8080**
 * H2 콘솔: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
-    * JDBC URL: `jdbc:h2:~/springintro` (기본값)
+    * JDBC URL: `jdbc:h2:~/test` (기본값)
 
 ### 3. 웹 기능 확인
 
